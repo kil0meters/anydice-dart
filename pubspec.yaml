@@ -1,5 +1,5 @@
 name: anydice
-description: A sample command-line application.
+description: A wrapper around the Anydice API for dart/flutter.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
